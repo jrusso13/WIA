@@ -1,0 +1,14 @@
+
+/*Name: John Russo*/
+/*Date: 11 Sep 2014*/
+/*Class & Section:  WIA-1409*/
+/*Comments: "HTML5 Canvas Drawing" CSS*/
+
+canvas {
+    border: dotted 1px black;
+    margin: 25px;
+    background-color: white;
+}
+body{
+    background-color: lightblue;
+}
